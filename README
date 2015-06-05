@@ -1,0 +1,3 @@
+Use this local-manifest to build CM12.1 for Samsung Tab 2 VZW LTE i705 (espressovzw)
+
+Place the espressovzw.xml file in .repo/local_manifests/ and repo sync to bring in all the needed bits for building. It is possible if you are building other devices you may run into some duplicates, remove duplicates as needed.
